@@ -1,0 +1,31 @@
+Name,Email,Role,Experience,Skills,Availability,Personality,Work Style,Personality Score,Work Style Score
+Ananya Verma,ananya.verma@example.com,Data Scientist,13,"Tableau, React, Node.js, Excel, Python",part-time,extroverted,team,2,3
+Priya Das,priya.das@example.com,Analyst,9,"Tableau, Excel, Machine Learning, Java, Node.js",freelance,introverted,solo,2,1
+Ananya Verma,ananya.verma@example.com,Data Scientist,5,"Java, Python",full-time,introverted,solo,2,1
+Aditya Patel,aditya.patel@example.com,Manager,5,"Tableau, Java, SQL, Excel",full-time,introverted,team,2,3
+Ananya Verma,ananya.verma@example.com,Data Scientist,14,"C++, Python, Machine Learning, Excel",freelance,introverted,team,2,3
+Aarav Sharma,aarav.sharma@example.com,Manager,4,"Java, Python",full-time,introverted,team,2,3
+Meera Kapoor,meera.kapoor@example.com,Data Scientist,14,"Java, SQL, C++, Excel, Tableau",freelance,extroverted,team,2,3
+Rohan Gupta,rohan.gupta@example.com,Analyst,10,"Excel, SQL, Machine Learning, Power BI, Python",full-time,extroverted,team,2,3
+Priya Das,priya.das@example.com,Data Scientist,14,"React, Node.js, Tableau, Java, C++",full-time,extroverted,team,2,3
+Ananya Verma,ananya.verma@example.com,Manager,1,"Java, Machine Learning, Node.js",part-time,extroverted,team,2,3
+Meera Kapoor,meera.kapoor@example.com,Tester,6,"Python, Tableau, Node.js, Excel",freelance,extroverted,solo,2,1
+Priya Das,priya.das@example.com,Manager,13,"Java, Machine Learning",full-time,introverted,team,2,3
+Rohan Gupta,rohan.gupta@example.com,Data Scientist,1,"Python, Machine Learning, Tableau, React",freelance,introverted,team,2,3
+Ishita Singh,ishita.singh@example.com,Designer,8,"React, Tableau, SQL, Java",full-time,extroverted,team,2,3
+Ishita Singh,ishita.singh@example.com,Data Scientist,4,"Java, Machine Learning, React, Tableau, Python",part-time,introverted,team,2,3
+Aarav Sharma,aarav.sharma@example.com,Designer,6,"C++, Python, Excel",full-time,introverted,solo,2,1
+Sneha Nair,sneha.nair@example.com,Tester,8,"Python, Tableau",freelance,extroverted,solo,2,1
+Rohan Gupta,rohan.gupta@example.com,Manager,12,"Excel, React, C++, Python, Power BI",full-time,extroverted,team,2,3
+Aarav Sharma,aarav.sharma@example.com,Developer,9,"C++, React, Machine Learning, Java, Tableau",part-time,extroverted,team,2,3
+Kabir Mehta,kabir.mehta@example.com,Tester,3,"React, Python, Excel",freelance,introverted,solo,2,1
+Aarav Sharma,aarav.sharma@example.com,Tester,13,"Power BI, React, Tableau",part-time,introverted,solo,2,1
+Aditya Patel,aditya.patel@example.com,Analyst,13,"Excel, Power BI, SQL, Tableau",freelance,introverted,team,2,3
+Ananya Verma,ananya.verma@example.com,Data Scientist,4,"Python, SQL",freelance,introverted,team,2,3
+Rohan Gupta,rohan.gupta@example.com,Analyst,4,"Power BI, Tableau, Node.js, Excel",full-time,introverted,team,2,3
+Aditya Patel,aditya.patel@example.com,Designer,7,"Java, SQL, Tableau",full-time,extroverted,team,2,3
+Sneha Nair,sneha.nair@example.com,Tester,11,"SQL, Node.js, Python",full-time,introverted,solo,2,1
+Ishita Singh,ishita.singh@example.com,Data Scientist,12,"SQL, Tableau, Python, Power BI, Java",part-time,extroverted,solo,2,1
+Aarav Sharma,aarav.sharma@example.com,Data Scientist,10,"Node.js, Java, SQL, Machine Learning",full-time,extroverted,solo,2,1
+Kunal Joshi,kunal.joshi@example.com,Analyst,10,"Power BI, Tableau, SQL, Java",full-time,extroverted,team,2,3
+Aditya Patel,aditya.patel@example.com,Analyst,4,"Tableau, Python, Power BI, Machine Learning",full-time,introverted,team,2,3

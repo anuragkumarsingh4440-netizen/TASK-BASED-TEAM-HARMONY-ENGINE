@@ -1,0 +1,901 @@
+Employee Name,Task Name,Match Score,Availability,Personality Score,Work Style Score
+Ananya Verma,build login system,1,part-time,2,3
+Priya Das,build login system,0,freelance,2,1
+Ananya Verma,build login system,0,full-time,2,1
+Aditya Patel,build login system,0,full-time,2,3
+Ananya Verma,build login system,0,freelance,2,3
+Aarav Sharma,build login system,0,full-time,2,3
+Meera Kapoor,build login system,0,freelance,2,3
+Rohan Gupta,build login system,0,full-time,2,3
+Priya Das,build login system,1,full-time,2,3
+Ananya Verma,build login system,0,part-time,2,3
+Meera Kapoor,build login system,0,freelance,2,1
+Priya Das,build login system,0,full-time,2,3
+Rohan Gupta,build login system,1,freelance,2,3
+Ishita Singh,build login system,1,full-time,2,3
+Ishita Singh,build login system,1,part-time,2,3
+Aarav Sharma,build login system,0,full-time,2,1
+Sneha Nair,build login system,0,freelance,2,1
+Rohan Gupta,build login system,1,full-time,2,3
+Aarav Sharma,build login system,1,part-time,2,3
+Kabir Mehta,build login system,1,freelance,2,1
+Aarav Sharma,build login system,1,part-time,2,1
+Aditya Patel,build login system,0,freelance,2,3
+Ananya Verma,build login system,0,freelance,2,3
+Rohan Gupta,build login system,0,full-time,2,3
+Aditya Patel,build login system,0,full-time,2,3
+Sneha Nair,build login system,0,full-time,2,1
+Ishita Singh,build login system,0,part-time,2,1
+Aarav Sharma,build login system,0,full-time,2,1
+Kunal Joshi,build login system,0,full-time,2,3
+Aditya Patel,build login system,0,full-time,2,3
+Ananya Verma,design landing page,0,part-time,2,3
+Priya Das,design landing page,0,freelance,2,1
+Ananya Verma,design landing page,0,full-time,2,1
+Aditya Patel,design landing page,0,full-time,2,3
+Ananya Verma,design landing page,0,freelance,2,3
+Aarav Sharma,design landing page,0,full-time,2,3
+Meera Kapoor,design landing page,0,freelance,2,3
+Rohan Gupta,design landing page,0,full-time,2,3
+Priya Das,design landing page,0,full-time,2,3
+Ananya Verma,design landing page,0,part-time,2,3
+Meera Kapoor,design landing page,0,freelance,2,1
+Priya Das,design landing page,0,full-time,2,3
+Rohan Gupta,design landing page,0,freelance,2,3
+Ishita Singh,design landing page,0,full-time,2,3
+Ishita Singh,design landing page,0,part-time,2,3
+Aarav Sharma,design landing page,0,full-time,2,1
+Sneha Nair,design landing page,0,freelance,2,1
+Rohan Gupta,design landing page,0,full-time,2,3
+Aarav Sharma,design landing page,0,part-time,2,3
+Kabir Mehta,design landing page,0,freelance,2,1
+Aarav Sharma,design landing page,0,part-time,2,1
+Aditya Patel,design landing page,0,freelance,2,3
+Ananya Verma,design landing page,0,freelance,2,3
+Rohan Gupta,design landing page,0,full-time,2,3
+Aditya Patel,design landing page,0,full-time,2,3
+Sneha Nair,design landing page,0,full-time,2,1
+Ishita Singh,design landing page,0,part-time,2,1
+Aarav Sharma,design landing page,0,full-time,2,1
+Kunal Joshi,design landing page,0,full-time,2,3
+Aditya Patel,design landing page,0,full-time,2,3
+Ananya Verma,setup database schema,1,part-time,2,3
+Priya Das,setup database schema,0,freelance,2,1
+Ananya Verma,setup database schema,0,full-time,2,1
+Aditya Patel,setup database schema,0,full-time,2,3
+Ananya Verma,setup database schema,0,freelance,2,3
+Aarav Sharma,setup database schema,0,full-time,2,3
+Meera Kapoor,setup database schema,0,freelance,2,3
+Rohan Gupta,setup database schema,0,full-time,2,3
+Priya Das,setup database schema,1,full-time,2,3
+Ananya Verma,setup database schema,0,part-time,2,3
+Meera Kapoor,setup database schema,0,freelance,2,1
+Priya Das,setup database schema,0,full-time,2,3
+Rohan Gupta,setup database schema,1,freelance,2,3
+Ishita Singh,setup database schema,1,full-time,2,3
+Ishita Singh,setup database schema,1,part-time,2,3
+Aarav Sharma,setup database schema,0,full-time,2,1
+Sneha Nair,setup database schema,0,freelance,2,1
+Rohan Gupta,setup database schema,1,full-time,2,3
+Aarav Sharma,setup database schema,1,part-time,2,3
+Kabir Mehta,setup database schema,1,freelance,2,1
+Aarav Sharma,setup database schema,1,part-time,2,1
+Aditya Patel,setup database schema,0,freelance,2,3
+Ananya Verma,setup database schema,0,freelance,2,3
+Rohan Gupta,setup database schema,0,full-time,2,3
+Aditya Patel,setup database schema,0,full-time,2,3
+Sneha Nair,setup database schema,0,full-time,2,1
+Ishita Singh,setup database schema,0,part-time,2,1
+Aarav Sharma,setup database schema,0,full-time,2,1
+Kunal Joshi,setup database schema,0,full-time,2,3
+Aditya Patel,setup database schema,0,full-time,2,3
+Ananya Verma,write api docs,0,part-time,2,3
+Priya Das,write api docs,0,freelance,2,1
+Ananya Verma,write api docs,0,full-time,2,1
+Aditya Patel,write api docs,1,full-time,2,3
+Ananya Verma,write api docs,0,freelance,2,3
+Aarav Sharma,write api docs,0,full-time,2,3
+Meera Kapoor,write api docs,1,freelance,2,3
+Rohan Gupta,write api docs,1,full-time,2,3
+Priya Das,write api docs,0,full-time,2,3
+Ananya Verma,write api docs,0,part-time,2,3
+Meera Kapoor,write api docs,0,freelance,2,1
+Priya Das,write api docs,0,full-time,2,3
+Rohan Gupta,write api docs,0,freelance,2,3
+Ishita Singh,write api docs,1,full-time,2,3
+Ishita Singh,write api docs,0,part-time,2,3
+Aarav Sharma,write api docs,0,full-time,2,1
+Sneha Nair,write api docs,0,freelance,2,1
+Rohan Gupta,write api docs,0,full-time,2,3
+Aarav Sharma,write api docs,0,part-time,2,3
+Kabir Mehta,write api docs,0,freelance,2,1
+Aarav Sharma,write api docs,0,part-time,2,1
+Aditya Patel,write api docs,1,freelance,2,3
+Ananya Verma,write api docs,1,freelance,2,3
+Rohan Gupta,write api docs,0,full-time,2,3
+Aditya Patel,write api docs,1,full-time,2,3
+Sneha Nair,write api docs,1,full-time,2,1
+Ishita Singh,write api docs,1,part-time,2,1
+Aarav Sharma,write api docs,1,full-time,2,1
+Kunal Joshi,write api docs,1,full-time,2,3
+Aditya Patel,write api docs,0,full-time,2,3
+Ananya Verma,test payment gateway,1,part-time,2,3
+Priya Das,test payment gateway,0,freelance,2,1
+Ananya Verma,test payment gateway,1,full-time,2,1
+Aditya Patel,test payment gateway,0,full-time,2,3
+Ananya Verma,test payment gateway,1,freelance,2,3
+Aarav Sharma,test payment gateway,1,full-time,2,3
+Meera Kapoor,test payment gateway,0,freelance,2,3
+Rohan Gupta,test payment gateway,1,full-time,2,3
+Priya Das,test payment gateway,0,full-time,2,3
+Ananya Verma,test payment gateway,0,part-time,2,3
+Meera Kapoor,test payment gateway,1,freelance,2,1
+Priya Das,test payment gateway,0,full-time,2,3
+Rohan Gupta,test payment gateway,1,freelance,2,3
+Ishita Singh,test payment gateway,0,full-time,2,3
+Ishita Singh,test payment gateway,1,part-time,2,3
+Aarav Sharma,test payment gateway,1,full-time,2,1
+Sneha Nair,test payment gateway,1,freelance,2,1
+Rohan Gupta,test payment gateway,1,full-time,2,3
+Aarav Sharma,test payment gateway,0,part-time,2,3
+Kabir Mehta,test payment gateway,1,freelance,2,1
+Aarav Sharma,test payment gateway,0,part-time,2,1
+Aditya Patel,test payment gateway,0,freelance,2,3
+Ananya Verma,test payment gateway,1,freelance,2,3
+Rohan Gupta,test payment gateway,0,full-time,2,3
+Aditya Patel,test payment gateway,0,full-time,2,3
+Sneha Nair,test payment gateway,1,full-time,2,1
+Ishita Singh,test payment gateway,1,part-time,2,1
+Aarav Sharma,test payment gateway,0,full-time,2,1
+Kunal Joshi,test payment gateway,0,full-time,2,3
+Aditya Patel,test payment gateway,1,full-time,2,3
+Ananya Verma,optimize query performance,0,part-time,2,3
+Priya Das,optimize query performance,0,freelance,2,1
+Ananya Verma,optimize query performance,0,full-time,2,1
+Aditya Patel,optimize query performance,0,full-time,2,3
+Ananya Verma,optimize query performance,0,freelance,2,3
+Aarav Sharma,optimize query performance,0,full-time,2,3
+Meera Kapoor,optimize query performance,0,freelance,2,3
+Rohan Gupta,optimize query performance,0,full-time,2,3
+Priya Das,optimize query performance,0,full-time,2,3
+Ananya Verma,optimize query performance,0,part-time,2,3
+Meera Kapoor,optimize query performance,0,freelance,2,1
+Priya Das,optimize query performance,0,full-time,2,3
+Rohan Gupta,optimize query performance,0,freelance,2,3
+Ishita Singh,optimize query performance,0,full-time,2,3
+Ishita Singh,optimize query performance,0,part-time,2,3
+Aarav Sharma,optimize query performance,0,full-time,2,1
+Sneha Nair,optimize query performance,0,freelance,2,1
+Rohan Gupta,optimize query performance,0,full-time,2,3
+Aarav Sharma,optimize query performance,0,part-time,2,3
+Kabir Mehta,optimize query performance,0,freelance,2,1
+Aarav Sharma,optimize query performance,0,part-time,2,1
+Aditya Patel,optimize query performance,0,freelance,2,3
+Ananya Verma,optimize query performance,0,freelance,2,3
+Rohan Gupta,optimize query performance,0,full-time,2,3
+Aditya Patel,optimize query performance,0,full-time,2,3
+Sneha Nair,optimize query performance,0,full-time,2,1
+Ishita Singh,optimize query performance,0,part-time,2,1
+Aarav Sharma,optimize query performance,0,full-time,2,1
+Kunal Joshi,optimize query performance,0,full-time,2,3
+Aditya Patel,optimize query performance,0,full-time,2,3
+Ananya Verma,create marketing campaign,0,part-time,2,3
+Priya Das,create marketing campaign,0,freelance,2,1
+Ananya Verma,create marketing campaign,0,full-time,2,1
+Aditya Patel,create marketing campaign,0,full-time,2,3
+Ananya Verma,create marketing campaign,0,freelance,2,3
+Aarav Sharma,create marketing campaign,0,full-time,2,3
+Meera Kapoor,create marketing campaign,0,freelance,2,3
+Rohan Gupta,create marketing campaign,0,full-time,2,3
+Priya Das,create marketing campaign,0,full-time,2,3
+Ananya Verma,create marketing campaign,0,part-time,2,3
+Meera Kapoor,create marketing campaign,0,freelance,2,1
+Priya Das,create marketing campaign,0,full-time,2,3
+Rohan Gupta,create marketing campaign,0,freelance,2,3
+Ishita Singh,create marketing campaign,0,full-time,2,3
+Ishita Singh,create marketing campaign,0,part-time,2,3
+Aarav Sharma,create marketing campaign,0,full-time,2,1
+Sneha Nair,create marketing campaign,0,freelance,2,1
+Rohan Gupta,create marketing campaign,0,full-time,2,3
+Aarav Sharma,create marketing campaign,0,part-time,2,3
+Kabir Mehta,create marketing campaign,0,freelance,2,1
+Aarav Sharma,create marketing campaign,0,part-time,2,1
+Aditya Patel,create marketing campaign,0,freelance,2,3
+Ananya Verma,create marketing campaign,0,freelance,2,3
+Rohan Gupta,create marketing campaign,0,full-time,2,3
+Aditya Patel,create marketing campaign,0,full-time,2,3
+Sneha Nair,create marketing campaign,0,full-time,2,1
+Ishita Singh,create marketing campaign,0,part-time,2,1
+Aarav Sharma,create marketing campaign,0,full-time,2,1
+Kunal Joshi,create marketing campaign,0,full-time,2,3
+Aditya Patel,create marketing campaign,0,full-time,2,3
+Ananya Verma,set up ci/cd pipeline,1,part-time,2,3
+Priya Das,set up ci/cd pipeline,0,freelance,2,1
+Ananya Verma,set up ci/cd pipeline,1,full-time,2,1
+Aditya Patel,set up ci/cd pipeline,0,full-time,2,3
+Ananya Verma,set up ci/cd pipeline,1,freelance,2,3
+Aarav Sharma,set up ci/cd pipeline,1,full-time,2,3
+Meera Kapoor,set up ci/cd pipeline,0,freelance,2,3
+Rohan Gupta,set up ci/cd pipeline,1,full-time,2,3
+Priya Das,set up ci/cd pipeline,0,full-time,2,3
+Ananya Verma,set up ci/cd pipeline,0,part-time,2,3
+Meera Kapoor,set up ci/cd pipeline,1,freelance,2,1
+Priya Das,set up ci/cd pipeline,0,full-time,2,3
+Rohan Gupta,set up ci/cd pipeline,1,freelance,2,3
+Ishita Singh,set up ci/cd pipeline,0,full-time,2,3
+Ishita Singh,set up ci/cd pipeline,1,part-time,2,3
+Aarav Sharma,set up ci/cd pipeline,1,full-time,2,1
+Sneha Nair,set up ci/cd pipeline,1,freelance,2,1
+Rohan Gupta,set up ci/cd pipeline,1,full-time,2,3
+Aarav Sharma,set up ci/cd pipeline,0,part-time,2,3
+Kabir Mehta,set up ci/cd pipeline,1,freelance,2,1
+Aarav Sharma,set up ci/cd pipeline,0,part-time,2,1
+Aditya Patel,set up ci/cd pipeline,0,freelance,2,3
+Ananya Verma,set up ci/cd pipeline,1,freelance,2,3
+Rohan Gupta,set up ci/cd pipeline,0,full-time,2,3
+Aditya Patel,set up ci/cd pipeline,0,full-time,2,3
+Sneha Nair,set up ci/cd pipeline,1,full-time,2,1
+Ishita Singh,set up ci/cd pipeline,1,part-time,2,1
+Aarav Sharma,set up ci/cd pipeline,0,full-time,2,1
+Kunal Joshi,set up ci/cd pipeline,0,full-time,2,3
+Aditya Patel,set up ci/cd pipeline,1,full-time,2,3
+Ananya Verma,design logo,0,part-time,2,3
+Priya Das,design logo,0,freelance,2,1
+Ananya Verma,design logo,0,full-time,2,1
+Aditya Patel,design logo,1,full-time,2,3
+Ananya Verma,design logo,0,freelance,2,3
+Aarav Sharma,design logo,0,full-time,2,3
+Meera Kapoor,design logo,1,freelance,2,3
+Rohan Gupta,design logo,1,full-time,2,3
+Priya Das,design logo,0,full-time,2,3
+Ananya Verma,design logo,0,part-time,2,3
+Meera Kapoor,design logo,0,freelance,2,1
+Priya Das,design logo,0,full-time,2,3
+Rohan Gupta,design logo,0,freelance,2,3
+Ishita Singh,design logo,1,full-time,2,3
+Ishita Singh,design logo,0,part-time,2,3
+Aarav Sharma,design logo,0,full-time,2,1
+Sneha Nair,design logo,0,freelance,2,1
+Rohan Gupta,design logo,0,full-time,2,3
+Aarav Sharma,design logo,0,part-time,2,3
+Kabir Mehta,design logo,0,freelance,2,1
+Aarav Sharma,design logo,0,part-time,2,1
+Aditya Patel,design logo,1,freelance,2,3
+Ananya Verma,design logo,1,freelance,2,3
+Rohan Gupta,design logo,0,full-time,2,3
+Aditya Patel,design logo,1,full-time,2,3
+Sneha Nair,design logo,1,full-time,2,1
+Ishita Singh,design logo,1,part-time,2,1
+Aarav Sharma,design logo,1,full-time,2,1
+Kunal Joshi,design logo,1,full-time,2,3
+Aditya Patel,design logo,0,full-time,2,3
+Ananya Verma,develop chatbot,1,part-time,2,3
+Priya Das,develop chatbot,0,freelance,2,1
+Ananya Verma,develop chatbot,0,full-time,2,1
+Aditya Patel,develop chatbot,0,full-time,2,3
+Ananya Verma,develop chatbot,0,freelance,2,3
+Aarav Sharma,develop chatbot,0,full-time,2,3
+Meera Kapoor,develop chatbot,0,freelance,2,3
+Rohan Gupta,develop chatbot,0,full-time,2,3
+Priya Das,develop chatbot,1,full-time,2,3
+Ananya Verma,develop chatbot,0,part-time,2,3
+Meera Kapoor,develop chatbot,0,freelance,2,1
+Priya Das,develop chatbot,0,full-time,2,3
+Rohan Gupta,develop chatbot,1,freelance,2,3
+Ishita Singh,develop chatbot,1,full-time,2,3
+Ishita Singh,develop chatbot,1,part-time,2,3
+Aarav Sharma,develop chatbot,0,full-time,2,1
+Sneha Nair,develop chatbot,0,freelance,2,1
+Rohan Gupta,develop chatbot,1,full-time,2,3
+Aarav Sharma,develop chatbot,1,part-time,2,3
+Kabir Mehta,develop chatbot,1,freelance,2,1
+Aarav Sharma,develop chatbot,1,part-time,2,1
+Aditya Patel,develop chatbot,0,freelance,2,3
+Ananya Verma,develop chatbot,0,freelance,2,3
+Rohan Gupta,develop chatbot,0,full-time,2,3
+Aditya Patel,develop chatbot,0,full-time,2,3
+Sneha Nair,develop chatbot,0,full-time,2,1
+Ishita Singh,develop chatbot,0,part-time,2,1
+Aarav Sharma,develop chatbot,0,full-time,2,1
+Kunal Joshi,develop chatbot,0,full-time,2,3
+Aditya Patel,develop chatbot,0,full-time,2,3
+Ananya Verma,conduct user survey,0,part-time,2,3
+Priya Das,conduct user survey,0,freelance,2,1
+Ananya Verma,conduct user survey,0,full-time,2,1
+Aditya Patel,conduct user survey,1,full-time,2,3
+Ananya Verma,conduct user survey,0,freelance,2,3
+Aarav Sharma,conduct user survey,0,full-time,2,3
+Meera Kapoor,conduct user survey,1,freelance,2,3
+Rohan Gupta,conduct user survey,1,full-time,2,3
+Priya Das,conduct user survey,0,full-time,2,3
+Ananya Verma,conduct user survey,0,part-time,2,3
+Meera Kapoor,conduct user survey,0,freelance,2,1
+Priya Das,conduct user survey,0,full-time,2,3
+Rohan Gupta,conduct user survey,0,freelance,2,3
+Ishita Singh,conduct user survey,1,full-time,2,3
+Ishita Singh,conduct user survey,0,part-time,2,3
+Aarav Sharma,conduct user survey,0,full-time,2,1
+Sneha Nair,conduct user survey,0,freelance,2,1
+Rohan Gupta,conduct user survey,0,full-time,2,3
+Aarav Sharma,conduct user survey,0,part-time,2,3
+Kabir Mehta,conduct user survey,0,freelance,2,1
+Aarav Sharma,conduct user survey,0,part-time,2,1
+Aditya Patel,conduct user survey,1,freelance,2,3
+Ananya Verma,conduct user survey,1,freelance,2,3
+Rohan Gupta,conduct user survey,0,full-time,2,3
+Aditya Patel,conduct user survey,1,full-time,2,3
+Sneha Nair,conduct user survey,1,full-time,2,1
+Ishita Singh,conduct user survey,1,part-time,2,1
+Aarav Sharma,conduct user survey,1,full-time,2,1
+Kunal Joshi,conduct user survey,1,full-time,2,3
+Aditya Patel,conduct user survey,0,full-time,2,3
+Ananya Verma,implement search feature,0,part-time,2,3
+Priya Das,implement search feature,0,freelance,2,1
+Ananya Verma,implement search feature,0,full-time,2,1
+Aditya Patel,implement search feature,0,full-time,2,3
+Ananya Verma,implement search feature,0,freelance,2,3
+Aarav Sharma,implement search feature,0,full-time,2,3
+Meera Kapoor,implement search feature,0,freelance,2,3
+Rohan Gupta,implement search feature,0,full-time,2,3
+Priya Das,implement search feature,0,full-time,2,3
+Ananya Verma,implement search feature,0,part-time,2,3
+Meera Kapoor,implement search feature,0,freelance,2,1
+Priya Das,implement search feature,0,full-time,2,3
+Rohan Gupta,implement search feature,0,freelance,2,3
+Ishita Singh,implement search feature,0,full-time,2,3
+Ishita Singh,implement search feature,0,part-time,2,3
+Aarav Sharma,implement search feature,0,full-time,2,1
+Sneha Nair,implement search feature,0,freelance,2,1
+Rohan Gupta,implement search feature,0,full-time,2,3
+Aarav Sharma,implement search feature,0,part-time,2,3
+Kabir Mehta,implement search feature,0,freelance,2,1
+Aarav Sharma,implement search feature,0,part-time,2,1
+Aditya Patel,implement search feature,0,freelance,2,3
+Ananya Verma,implement search feature,0,freelance,2,3
+Rohan Gupta,implement search feature,0,full-time,2,3
+Aditya Patel,implement search feature,0,full-time,2,3
+Sneha Nair,implement search feature,0,full-time,2,1
+Ishita Singh,implement search feature,0,part-time,2,1
+Aarav Sharma,implement search feature,0,full-time,2,1
+Kunal Joshi,implement search feature,0,full-time,2,3
+Aditya Patel,implement search feature,0,full-time,2,3
+Ananya Verma,fix bug in auth,0,part-time,2,3
+Priya Das,fix bug in auth,0,freelance,2,1
+Ananya Verma,fix bug in auth,0,full-time,2,1
+Aditya Patel,fix bug in auth,1,full-time,2,3
+Ananya Verma,fix bug in auth,0,freelance,2,3
+Aarav Sharma,fix bug in auth,0,full-time,2,3
+Meera Kapoor,fix bug in auth,1,freelance,2,3
+Rohan Gupta,fix bug in auth,1,full-time,2,3
+Priya Das,fix bug in auth,0,full-time,2,3
+Ananya Verma,fix bug in auth,0,part-time,2,3
+Meera Kapoor,fix bug in auth,0,freelance,2,1
+Priya Das,fix bug in auth,0,full-time,2,3
+Rohan Gupta,fix bug in auth,0,freelance,2,3
+Ishita Singh,fix bug in auth,1,full-time,2,3
+Ishita Singh,fix bug in auth,0,part-time,2,3
+Aarav Sharma,fix bug in auth,0,full-time,2,1
+Sneha Nair,fix bug in auth,0,freelance,2,1
+Rohan Gupta,fix bug in auth,0,full-time,2,3
+Aarav Sharma,fix bug in auth,0,part-time,2,3
+Kabir Mehta,fix bug in auth,0,freelance,2,1
+Aarav Sharma,fix bug in auth,0,part-time,2,1
+Aditya Patel,fix bug in auth,1,freelance,2,3
+Ananya Verma,fix bug in auth,1,freelance,2,3
+Rohan Gupta,fix bug in auth,0,full-time,2,3
+Aditya Patel,fix bug in auth,1,full-time,2,3
+Sneha Nair,fix bug in auth,1,full-time,2,1
+Ishita Singh,fix bug in auth,1,part-time,2,1
+Aarav Sharma,fix bug in auth,1,full-time,2,1
+Kunal Joshi,fix bug in auth,1,full-time,2,3
+Aditya Patel,fix bug in auth,0,full-time,2,3
+Ananya Verma,data cleaning,0,part-time,2,3
+Priya Das,data cleaning,0,freelance,2,1
+Ananya Verma,data cleaning,0,full-time,2,1
+Aditya Patel,data cleaning,1,full-time,2,3
+Ananya Verma,data cleaning,0,freelance,2,3
+Aarav Sharma,data cleaning,0,full-time,2,3
+Meera Kapoor,data cleaning,1,freelance,2,3
+Rohan Gupta,data cleaning,1,full-time,2,3
+Priya Das,data cleaning,0,full-time,2,3
+Ananya Verma,data cleaning,0,part-time,2,3
+Meera Kapoor,data cleaning,0,freelance,2,1
+Priya Das,data cleaning,0,full-time,2,3
+Rohan Gupta,data cleaning,0,freelance,2,3
+Ishita Singh,data cleaning,1,full-time,2,3
+Ishita Singh,data cleaning,0,part-time,2,3
+Aarav Sharma,data cleaning,0,full-time,2,1
+Sneha Nair,data cleaning,0,freelance,2,1
+Rohan Gupta,data cleaning,0,full-time,2,3
+Aarav Sharma,data cleaning,0,part-time,2,3
+Kabir Mehta,data cleaning,0,freelance,2,1
+Aarav Sharma,data cleaning,0,part-time,2,1
+Aditya Patel,data cleaning,1,freelance,2,3
+Ananya Verma,data cleaning,1,freelance,2,3
+Rohan Gupta,data cleaning,0,full-time,2,3
+Aditya Patel,data cleaning,1,full-time,2,3
+Sneha Nair,data cleaning,1,full-time,2,1
+Ishita Singh,data cleaning,1,part-time,2,1
+Aarav Sharma,data cleaning,1,full-time,2,1
+Kunal Joshi,data cleaning,1,full-time,2,3
+Aditya Patel,data cleaning,0,full-time,2,3
+Ananya Verma,build recommendation system,0,part-time,2,3
+Priya Das,build recommendation system,0,freelance,2,1
+Ananya Verma,build recommendation system,0,full-time,2,1
+Aditya Patel,build recommendation system,0,full-time,2,3
+Ananya Verma,build recommendation system,0,freelance,2,3
+Aarav Sharma,build recommendation system,0,full-time,2,3
+Meera Kapoor,build recommendation system,0,freelance,2,3
+Rohan Gupta,build recommendation system,0,full-time,2,3
+Priya Das,build recommendation system,0,full-time,2,3
+Ananya Verma,build recommendation system,0,part-time,2,3
+Meera Kapoor,build recommendation system,0,freelance,2,1
+Priya Das,build recommendation system,0,full-time,2,3
+Rohan Gupta,build recommendation system,0,freelance,2,3
+Ishita Singh,build recommendation system,0,full-time,2,3
+Ishita Singh,build recommendation system,0,part-time,2,3
+Aarav Sharma,build recommendation system,0,full-time,2,1
+Sneha Nair,build recommendation system,0,freelance,2,1
+Rohan Gupta,build recommendation system,0,full-time,2,3
+Aarav Sharma,build recommendation system,0,part-time,2,3
+Kabir Mehta,build recommendation system,0,freelance,2,1
+Aarav Sharma,build recommendation system,0,part-time,2,1
+Aditya Patel,build recommendation system,0,freelance,2,3
+Ananya Verma,build recommendation system,0,freelance,2,3
+Rohan Gupta,build recommendation system,0,full-time,2,3
+Aditya Patel,build recommendation system,0,full-time,2,3
+Sneha Nair,build recommendation system,0,full-time,2,1
+Ishita Singh,build recommendation system,0,part-time,2,1
+Aarav Sharma,build recommendation system,0,full-time,2,1
+Kunal Joshi,build recommendation system,0,full-time,2,3
+Aditya Patel,build recommendation system,0,full-time,2,3
+Ananya Verma,analyze customer churn,1,part-time,2,3
+Priya Das,analyze customer churn,0,freelance,2,1
+Ananya Verma,analyze customer churn,0,full-time,2,1
+Aditya Patel,analyze customer churn,0,full-time,2,3
+Ananya Verma,analyze customer churn,0,freelance,2,3
+Aarav Sharma,analyze customer churn,0,full-time,2,3
+Meera Kapoor,analyze customer churn,0,freelance,2,3
+Rohan Gupta,analyze customer churn,0,full-time,2,3
+Priya Das,analyze customer churn,1,full-time,2,3
+Ananya Verma,analyze customer churn,0,part-time,2,3
+Meera Kapoor,analyze customer churn,0,freelance,2,1
+Priya Das,analyze customer churn,0,full-time,2,3
+Rohan Gupta,analyze customer churn,1,freelance,2,3
+Ishita Singh,analyze customer churn,1,full-time,2,3
+Ishita Singh,analyze customer churn,1,part-time,2,3
+Aarav Sharma,analyze customer churn,0,full-time,2,1
+Sneha Nair,analyze customer churn,0,freelance,2,1
+Rohan Gupta,analyze customer churn,1,full-time,2,3
+Aarav Sharma,analyze customer churn,1,part-time,2,3
+Kabir Mehta,analyze customer churn,1,freelance,2,1
+Aarav Sharma,analyze customer churn,1,part-time,2,1
+Aditya Patel,analyze customer churn,0,freelance,2,3
+Ananya Verma,analyze customer churn,0,freelance,2,3
+Rohan Gupta,analyze customer churn,0,full-time,2,3
+Aditya Patel,analyze customer churn,0,full-time,2,3
+Sneha Nair,analyze customer churn,0,full-time,2,1
+Ishita Singh,analyze customer churn,0,part-time,2,1
+Aarav Sharma,analyze customer churn,0,full-time,2,1
+Kunal Joshi,analyze customer churn,0,full-time,2,3
+Aditya Patel,analyze customer churn,0,full-time,2,3
+Ananya Verma,write unit tests,0,part-time,2,3
+Priya Das,write unit tests,0,freelance,2,1
+Ananya Verma,write unit tests,0,full-time,2,1
+Aditya Patel,write unit tests,0,full-time,2,3
+Ananya Verma,write unit tests,0,freelance,2,3
+Aarav Sharma,write unit tests,0,full-time,2,3
+Meera Kapoor,write unit tests,0,freelance,2,3
+Rohan Gupta,write unit tests,0,full-time,2,3
+Priya Das,write unit tests,0,full-time,2,3
+Ananya Verma,write unit tests,0,part-time,2,3
+Meera Kapoor,write unit tests,0,freelance,2,1
+Priya Das,write unit tests,0,full-time,2,3
+Rohan Gupta,write unit tests,0,freelance,2,3
+Ishita Singh,write unit tests,0,full-time,2,3
+Ishita Singh,write unit tests,0,part-time,2,3
+Aarav Sharma,write unit tests,0,full-time,2,1
+Sneha Nair,write unit tests,0,freelance,2,1
+Rohan Gupta,write unit tests,0,full-time,2,3
+Aarav Sharma,write unit tests,0,part-time,2,3
+Kabir Mehta,write unit tests,0,freelance,2,1
+Aarav Sharma,write unit tests,0,part-time,2,1
+Aditya Patel,write unit tests,0,freelance,2,3
+Ananya Verma,write unit tests,0,freelance,2,3
+Rohan Gupta,write unit tests,0,full-time,2,3
+Aditya Patel,write unit tests,0,full-time,2,3
+Sneha Nair,write unit tests,0,full-time,2,1
+Ishita Singh,write unit tests,0,part-time,2,1
+Aarav Sharma,write unit tests,0,full-time,2,1
+Kunal Joshi,write unit tests,0,full-time,2,3
+Aditya Patel,write unit tests,0,full-time,2,3
+Ananya Verma,ui prototyping,0,part-time,2,3
+Priya Das,ui prototyping,0,freelance,2,1
+Ananya Verma,ui prototyping,0,full-time,2,1
+Aditya Patel,ui prototyping,0,full-time,2,3
+Ananya Verma,ui prototyping,0,freelance,2,3
+Aarav Sharma,ui prototyping,0,full-time,2,3
+Meera Kapoor,ui prototyping,0,freelance,2,3
+Rohan Gupta,ui prototyping,0,full-time,2,3
+Priya Das,ui prototyping,0,full-time,2,3
+Ananya Verma,ui prototyping,0,part-time,2,3
+Meera Kapoor,ui prototyping,0,freelance,2,1
+Priya Das,ui prototyping,0,full-time,2,3
+Rohan Gupta,ui prototyping,0,freelance,2,3
+Ishita Singh,ui prototyping,0,full-time,2,3
+Ishita Singh,ui prototyping,0,part-time,2,3
+Aarav Sharma,ui prototyping,0,full-time,2,1
+Sneha Nair,ui prototyping,0,freelance,2,1
+Rohan Gupta,ui prototyping,0,full-time,2,3
+Aarav Sharma,ui prototyping,0,part-time,2,3
+Kabir Mehta,ui prototyping,0,freelance,2,1
+Aarav Sharma,ui prototyping,0,part-time,2,1
+Aditya Patel,ui prototyping,0,freelance,2,3
+Ananya Verma,ui prototyping,0,freelance,2,3
+Rohan Gupta,ui prototyping,0,full-time,2,3
+Aditya Patel,ui prototyping,0,full-time,2,3
+Sneha Nair,ui prototyping,0,full-time,2,1
+Ishita Singh,ui prototyping,0,part-time,2,1
+Aarav Sharma,ui prototyping,0,full-time,2,1
+Kunal Joshi,ui prototyping,0,full-time,2,3
+Aditya Patel,ui prototyping,0,full-time,2,3
+Ananya Verma,refactor legacy code,0,part-time,2,3
+Priya Das,refactor legacy code,0,freelance,2,1
+Ananya Verma,refactor legacy code,0,full-time,2,1
+Aditya Patel,refactor legacy code,0,full-time,2,3
+Ananya Verma,refactor legacy code,0,freelance,2,3
+Aarav Sharma,refactor legacy code,0,full-time,2,3
+Meera Kapoor,refactor legacy code,0,freelance,2,3
+Rohan Gupta,refactor legacy code,0,full-time,2,3
+Priya Das,refactor legacy code,0,full-time,2,3
+Ananya Verma,refactor legacy code,0,part-time,2,3
+Meera Kapoor,refactor legacy code,0,freelance,2,1
+Priya Das,refactor legacy code,0,full-time,2,3
+Rohan Gupta,refactor legacy code,0,freelance,2,3
+Ishita Singh,refactor legacy code,0,full-time,2,3
+Ishita Singh,refactor legacy code,0,part-time,2,3
+Aarav Sharma,refactor legacy code,0,full-time,2,1
+Sneha Nair,refactor legacy code,0,freelance,2,1
+Rohan Gupta,refactor legacy code,0,full-time,2,3
+Aarav Sharma,refactor legacy code,0,part-time,2,3
+Kabir Mehta,refactor legacy code,0,freelance,2,1
+Aarav Sharma,refactor legacy code,0,part-time,2,1
+Aditya Patel,refactor legacy code,0,freelance,2,3
+Ananya Verma,refactor legacy code,0,freelance,2,3
+Rohan Gupta,refactor legacy code,0,full-time,2,3
+Aditya Patel,refactor legacy code,0,full-time,2,3
+Sneha Nair,refactor legacy code,0,full-time,2,1
+Ishita Singh,refactor legacy code,0,part-time,2,1
+Aarav Sharma,refactor legacy code,0,full-time,2,1
+Kunal Joshi,refactor legacy code,0,full-time,2,3
+Aditya Patel,refactor legacy code,0,full-time,2,3
+Ananya Verma,social media outreach,0,part-time,2,3
+Priya Das,social media outreach,0,freelance,2,1
+Ananya Verma,social media outreach,0,full-time,2,1
+Aditya Patel,social media outreach,0,full-time,2,3
+Ananya Verma,social media outreach,0,freelance,2,3
+Aarav Sharma,social media outreach,0,full-time,2,3
+Meera Kapoor,social media outreach,0,freelance,2,3
+Rohan Gupta,social media outreach,0,full-time,2,3
+Priya Das,social media outreach,0,full-time,2,3
+Ananya Verma,social media outreach,0,part-time,2,3
+Meera Kapoor,social media outreach,0,freelance,2,1
+Priya Das,social media outreach,0,full-time,2,3
+Rohan Gupta,social media outreach,0,freelance,2,3
+Ishita Singh,social media outreach,0,full-time,2,3
+Ishita Singh,social media outreach,0,part-time,2,3
+Aarav Sharma,social media outreach,0,full-time,2,1
+Sneha Nair,social media outreach,0,freelance,2,1
+Rohan Gupta,social media outreach,0,full-time,2,3
+Aarav Sharma,social media outreach,0,part-time,2,3
+Kabir Mehta,social media outreach,0,freelance,2,1
+Aarav Sharma,social media outreach,0,part-time,2,1
+Aditya Patel,social media outreach,0,freelance,2,3
+Ananya Verma,social media outreach,0,freelance,2,3
+Rohan Gupta,social media outreach,0,full-time,2,3
+Aditya Patel,social media outreach,0,full-time,2,3
+Sneha Nair,social media outreach,0,full-time,2,1
+Ishita Singh,social media outreach,0,part-time,2,1
+Aarav Sharma,social media outreach,0,full-time,2,1
+Kunal Joshi,social media outreach,0,full-time,2,3
+Aditya Patel,social media outreach,0,full-time,2,3
+Ananya Verma,deploy to aws,0,part-time,2,3
+Priya Das,deploy to aws,0,freelance,2,1
+Ananya Verma,deploy to aws,0,full-time,2,1
+Aditya Patel,deploy to aws,1,full-time,2,3
+Ananya Verma,deploy to aws,0,freelance,2,3
+Aarav Sharma,deploy to aws,0,full-time,2,3
+Meera Kapoor,deploy to aws,1,freelance,2,3
+Rohan Gupta,deploy to aws,1,full-time,2,3
+Priya Das,deploy to aws,0,full-time,2,3
+Ananya Verma,deploy to aws,0,part-time,2,3
+Meera Kapoor,deploy to aws,0,freelance,2,1
+Priya Das,deploy to aws,0,full-time,2,3
+Rohan Gupta,deploy to aws,0,freelance,2,3
+Ishita Singh,deploy to aws,1,full-time,2,3
+Ishita Singh,deploy to aws,0,part-time,2,3
+Aarav Sharma,deploy to aws,0,full-time,2,1
+Sneha Nair,deploy to aws,0,freelance,2,1
+Rohan Gupta,deploy to aws,0,full-time,2,3
+Aarav Sharma,deploy to aws,0,part-time,2,3
+Kabir Mehta,deploy to aws,0,freelance,2,1
+Aarav Sharma,deploy to aws,0,part-time,2,1
+Aditya Patel,deploy to aws,1,freelance,2,3
+Ananya Verma,deploy to aws,1,freelance,2,3
+Rohan Gupta,deploy to aws,0,full-time,2,3
+Aditya Patel,deploy to aws,1,full-time,2,3
+Sneha Nair,deploy to aws,1,full-time,2,1
+Ishita Singh,deploy to aws,1,part-time,2,1
+Aarav Sharma,deploy to aws,1,full-time,2,1
+Kunal Joshi,deploy to aws,1,full-time,2,3
+Aditya Patel,deploy to aws,0,full-time,2,3
+Ananya Verma,data visualization dashboard,0,part-time,2,3
+Priya Das,data visualization dashboard,0,freelance,2,1
+Ananya Verma,data visualization dashboard,0,full-time,2,1
+Aditya Patel,data visualization dashboard,0,full-time,2,3
+Ananya Verma,data visualization dashboard,0,freelance,2,3
+Aarav Sharma,data visualization dashboard,0,full-time,2,3
+Meera Kapoor,data visualization dashboard,0,freelance,2,3
+Rohan Gupta,data visualization dashboard,0,full-time,2,3
+Priya Das,data visualization dashboard,0,full-time,2,3
+Ananya Verma,data visualization dashboard,0,part-time,2,3
+Meera Kapoor,data visualization dashboard,0,freelance,2,1
+Priya Das,data visualization dashboard,0,full-time,2,3
+Rohan Gupta,data visualization dashboard,0,freelance,2,3
+Ishita Singh,data visualization dashboard,0,full-time,2,3
+Ishita Singh,data visualization dashboard,0,part-time,2,3
+Aarav Sharma,data visualization dashboard,0,full-time,2,1
+Sneha Nair,data visualization dashboard,0,freelance,2,1
+Rohan Gupta,data visualization dashboard,0,full-time,2,3
+Aarav Sharma,data visualization dashboard,0,part-time,2,3
+Kabir Mehta,data visualization dashboard,0,freelance,2,1
+Aarav Sharma,data visualization dashboard,0,part-time,2,1
+Aditya Patel,data visualization dashboard,0,freelance,2,3
+Ananya Verma,data visualization dashboard,0,freelance,2,3
+Rohan Gupta,data visualization dashboard,0,full-time,2,3
+Aditya Patel,data visualization dashboard,0,full-time,2,3
+Sneha Nair,data visualization dashboard,0,full-time,2,1
+Ishita Singh,data visualization dashboard,0,part-time,2,1
+Aarav Sharma,data visualization dashboard,0,full-time,2,1
+Kunal Joshi,data visualization dashboard,0,full-time,2,3
+Aditya Patel,data visualization dashboard,0,full-time,2,3
+Ananya Verma,keyword research,0,part-time,2,3
+Priya Das,keyword research,0,freelance,2,1
+Ananya Verma,keyword research,0,full-time,2,1
+Aditya Patel,keyword research,0,full-time,2,3
+Ananya Verma,keyword research,0,freelance,2,3
+Aarav Sharma,keyword research,0,full-time,2,3
+Meera Kapoor,keyword research,0,freelance,2,3
+Rohan Gupta,keyword research,0,full-time,2,3
+Priya Das,keyword research,0,full-time,2,3
+Ananya Verma,keyword research,0,part-time,2,3
+Meera Kapoor,keyword research,0,freelance,2,1
+Priya Das,keyword research,0,full-time,2,3
+Rohan Gupta,keyword research,0,freelance,2,3
+Ishita Singh,keyword research,0,full-time,2,3
+Ishita Singh,keyword research,0,part-time,2,3
+Aarav Sharma,keyword research,0,full-time,2,1
+Sneha Nair,keyword research,0,freelance,2,1
+Rohan Gupta,keyword research,0,full-time,2,3
+Aarav Sharma,keyword research,0,part-time,2,3
+Kabir Mehta,keyword research,0,freelance,2,1
+Aarav Sharma,keyword research,0,part-time,2,1
+Aditya Patel,keyword research,0,freelance,2,3
+Ananya Verma,keyword research,0,freelance,2,3
+Rohan Gupta,keyword research,0,full-time,2,3
+Aditya Patel,keyword research,0,full-time,2,3
+Sneha Nair,keyword research,0,full-time,2,1
+Ishita Singh,keyword research,0,part-time,2,1
+Aarav Sharma,keyword research,0,full-time,2,1
+Kunal Joshi,keyword research,0,full-time,2,3
+Aditya Patel,keyword research,0,full-time,2,3
+Ananya Verma,set up crm tool,0,part-time,2,3
+Priya Das,set up crm tool,0,freelance,2,1
+Ananya Verma,set up crm tool,0,full-time,2,1
+Aditya Patel,set up crm tool,0,full-time,2,3
+Ananya Verma,set up crm tool,0,freelance,2,3
+Aarav Sharma,set up crm tool,0,full-time,2,3
+Meera Kapoor,set up crm tool,0,freelance,2,3
+Rohan Gupta,set up crm tool,0,full-time,2,3
+Priya Das,set up crm tool,0,full-time,2,3
+Ananya Verma,set up crm tool,0,part-time,2,3
+Meera Kapoor,set up crm tool,0,freelance,2,1
+Priya Das,set up crm tool,0,full-time,2,3
+Rohan Gupta,set up crm tool,0,freelance,2,3
+Ishita Singh,set up crm tool,0,full-time,2,3
+Ishita Singh,set up crm tool,0,part-time,2,3
+Aarav Sharma,set up crm tool,0,full-time,2,1
+Sneha Nair,set up crm tool,0,freelance,2,1
+Rohan Gupta,set up crm tool,0,full-time,2,3
+Aarav Sharma,set up crm tool,0,part-time,2,3
+Kabir Mehta,set up crm tool,0,freelance,2,1
+Aarav Sharma,set up crm tool,0,part-time,2,1
+Aditya Patel,set up crm tool,0,freelance,2,3
+Ananya Verma,set up crm tool,0,freelance,2,3
+Rohan Gupta,set up crm tool,0,full-time,2,3
+Aditya Patel,set up crm tool,0,full-time,2,3
+Sneha Nair,set up crm tool,0,full-time,2,1
+Ishita Singh,set up crm tool,0,part-time,2,1
+Aarav Sharma,set up crm tool,0,full-time,2,1
+Kunal Joshi,set up crm tool,0,full-time,2,3
+Aditya Patel,set up crm tool,0,full-time,2,3
+Ananya Verma,improve seo ranking,0,part-time,2,3
+Priya Das,improve seo ranking,0,freelance,2,1
+Ananya Verma,improve seo ranking,0,full-time,2,1
+Aditya Patel,improve seo ranking,0,full-time,2,3
+Ananya Verma,improve seo ranking,0,freelance,2,3
+Aarav Sharma,improve seo ranking,0,full-time,2,3
+Meera Kapoor,improve seo ranking,0,freelance,2,3
+Rohan Gupta,improve seo ranking,0,full-time,2,3
+Priya Das,improve seo ranking,0,full-time,2,3
+Ananya Verma,improve seo ranking,0,part-time,2,3
+Meera Kapoor,improve seo ranking,0,freelance,2,1
+Priya Das,improve seo ranking,0,full-time,2,3
+Rohan Gupta,improve seo ranking,0,freelance,2,3
+Ishita Singh,improve seo ranking,0,full-time,2,3
+Ishita Singh,improve seo ranking,0,part-time,2,3
+Aarav Sharma,improve seo ranking,0,full-time,2,1
+Sneha Nair,improve seo ranking,0,freelance,2,1
+Rohan Gupta,improve seo ranking,0,full-time,2,3
+Aarav Sharma,improve seo ranking,0,part-time,2,3
+Kabir Mehta,improve seo ranking,0,freelance,2,1
+Aarav Sharma,improve seo ranking,0,part-time,2,1
+Aditya Patel,improve seo ranking,0,freelance,2,3
+Ananya Verma,improve seo ranking,0,freelance,2,3
+Rohan Gupta,improve seo ranking,0,full-time,2,3
+Aditya Patel,improve seo ranking,0,full-time,2,3
+Sneha Nair,improve seo ranking,0,full-time,2,1
+Ishita Singh,improve seo ranking,0,part-time,2,1
+Aarav Sharma,improve seo ranking,0,full-time,2,1
+Kunal Joshi,improve seo ranking,0,full-time,2,3
+Aditya Patel,improve seo ranking,0,full-time,2,3
+Ananya Verma,mobile app testing,0,part-time,2,3
+Priya Das,mobile app testing,0,freelance,2,1
+Ananya Verma,mobile app testing,0,full-time,2,1
+Aditya Patel,mobile app testing,0,full-time,2,3
+Ananya Verma,mobile app testing,0,freelance,2,3
+Aarav Sharma,mobile app testing,0,full-time,2,3
+Meera Kapoor,mobile app testing,0,freelance,2,3
+Rohan Gupta,mobile app testing,0,full-time,2,3
+Priya Das,mobile app testing,0,full-time,2,3
+Ananya Verma,mobile app testing,0,part-time,2,3
+Meera Kapoor,mobile app testing,0,freelance,2,1
+Priya Das,mobile app testing,0,full-time,2,3
+Rohan Gupta,mobile app testing,0,freelance,2,3
+Ishita Singh,mobile app testing,0,full-time,2,3
+Ishita Singh,mobile app testing,0,part-time,2,3
+Aarav Sharma,mobile app testing,0,full-time,2,1
+Sneha Nair,mobile app testing,0,freelance,2,1
+Rohan Gupta,mobile app testing,0,full-time,2,3
+Aarav Sharma,mobile app testing,0,part-time,2,3
+Kabir Mehta,mobile app testing,0,freelance,2,1
+Aarav Sharma,mobile app testing,0,part-time,2,1
+Aditya Patel,mobile app testing,0,freelance,2,3
+Ananya Verma,mobile app testing,0,freelance,2,3
+Rohan Gupta,mobile app testing,0,full-time,2,3
+Aditya Patel,mobile app testing,0,full-time,2,3
+Sneha Nair,mobile app testing,0,full-time,2,1
+Ishita Singh,mobile app testing,0,part-time,2,1
+Aarav Sharma,mobile app testing,0,full-time,2,1
+Kunal Joshi,mobile app testing,0,full-time,2,3
+Aditya Patel,mobile app testing,0,full-time,2,3
+Ananya Verma,integrate third party api,1,part-time,2,3
+Priya Das,integrate third party api,0,freelance,2,1
+Ananya Verma,integrate third party api,0,full-time,2,1
+Aditya Patel,integrate third party api,0,full-time,2,3
+Ananya Verma,integrate third party api,0,freelance,2,3
+Aarav Sharma,integrate third party api,0,full-time,2,3
+Meera Kapoor,integrate third party api,0,freelance,2,3
+Rohan Gupta,integrate third party api,0,full-time,2,3
+Priya Das,integrate third party api,1,full-time,2,3
+Ananya Verma,integrate third party api,0,part-time,2,3
+Meera Kapoor,integrate third party api,0,freelance,2,1
+Priya Das,integrate third party api,0,full-time,2,3
+Rohan Gupta,integrate third party api,1,freelance,2,3
+Ishita Singh,integrate third party api,1,full-time,2,3
+Ishita Singh,integrate third party api,1,part-time,2,3
+Aarav Sharma,integrate third party api,0,full-time,2,1
+Sneha Nair,integrate third party api,0,freelance,2,1
+Rohan Gupta,integrate third party api,1,full-time,2,3
+Aarav Sharma,integrate third party api,1,part-time,2,3
+Kabir Mehta,integrate third party api,1,freelance,2,1
+Aarav Sharma,integrate third party api,1,part-time,2,1
+Aditya Patel,integrate third party api,0,freelance,2,3
+Ananya Verma,integrate third party api,0,freelance,2,3
+Rohan Gupta,integrate third party api,0,full-time,2,3
+Aditya Patel,integrate third party api,0,full-time,2,3
+Sneha Nair,integrate third party api,0,full-time,2,1
+Ishita Singh,integrate third party api,0,part-time,2,1
+Aarav Sharma,integrate third party api,0,full-time,2,1
+Kunal Joshi,integrate third party api,0,full-time,2,3
+Aditya Patel,integrate third party api,0,full-time,2,3
+Ananya Verma,train ml model,0,part-time,2,3
+Priya Das,train ml model,0,freelance,2,1
+Ananya Verma,train ml model,0,full-time,2,1
+Aditya Patel,train ml model,1,full-time,2,3
+Ananya Verma,train ml model,0,freelance,2,3
+Aarav Sharma,train ml model,0,full-time,2,3
+Meera Kapoor,train ml model,1,freelance,2,3
+Rohan Gupta,train ml model,1,full-time,2,3
+Priya Das,train ml model,0,full-time,2,3
+Ananya Verma,train ml model,0,part-time,2,3
+Meera Kapoor,train ml model,0,freelance,2,1
+Priya Das,train ml model,0,full-time,2,3
+Rohan Gupta,train ml model,0,freelance,2,3
+Ishita Singh,train ml model,1,full-time,2,3
+Ishita Singh,train ml model,0,part-time,2,3
+Aarav Sharma,train ml model,0,full-time,2,1
+Sneha Nair,train ml model,0,freelance,2,1
+Rohan Gupta,train ml model,0,full-time,2,3
+Aarav Sharma,train ml model,0,part-time,2,3
+Kabir Mehta,train ml model,0,freelance,2,1
+Aarav Sharma,train ml model,0,part-time,2,1
+Aditya Patel,train ml model,1,freelance,2,3
+Ananya Verma,train ml model,1,freelance,2,3
+Rohan Gupta,train ml model,0,full-time,2,3
+Aditya Patel,train ml model,1,full-time,2,3
+Sneha Nair,train ml model,1,full-time,2,1
+Ishita Singh,train ml model,1,part-time,2,1
+Aarav Sharma,train ml model,1,full-time,2,1
+Kunal Joshi,train ml model,1,full-time,2,3
+Aditya Patel,train ml model,0,full-time,2,3
+Ananya Verma,security audit,0,part-time,2,3
+Priya Das,security audit,0,freelance,2,1
+Ananya Verma,security audit,0,full-time,2,1
+Aditya Patel,security audit,1,full-time,2,3
+Ananya Verma,security audit,0,freelance,2,3
+Aarav Sharma,security audit,0,full-time,2,3
+Meera Kapoor,security audit,1,freelance,2,3
+Rohan Gupta,security audit,1,full-time,2,3
+Priya Das,security audit,0,full-time,2,3
+Ananya Verma,security audit,0,part-time,2,3
+Meera Kapoor,security audit,0,freelance,2,1
+Priya Das,security audit,0,full-time,2,3
+Rohan Gupta,security audit,0,freelance,2,3
+Ishita Singh,security audit,1,full-time,2,3
+Ishita Singh,security audit,0,part-time,2,3
+Aarav Sharma,security audit,0,full-time,2,1
+Sneha Nair,security audit,0,freelance,2,1
+Rohan Gupta,security audit,0,full-time,2,3
+Aarav Sharma,security audit,0,part-time,2,3
+Kabir Mehta,security audit,0,freelance,2,1
+Aarav Sharma,security audit,0,part-time,2,1
+Aditya Patel,security audit,1,freelance,2,3
+Ananya Verma,security audit,1,freelance,2,3
+Rohan Gupta,security audit,0,full-time,2,3
+Aditya Patel,security audit,1,full-time,2,3
+Sneha Nair,security audit,1,full-time,2,1
+Ishita Singh,security audit,1,part-time,2,1
+Aarav Sharma,security audit,1,full-time,2,1
+Kunal Joshi,security audit,1,full-time,2,3
+Aditya Patel,security audit,0,full-time,2,3
+Ananya Verma,content writing,0,part-time,2,3
+Priya Das,content writing,0,freelance,2,1
+Ananya Verma,content writing,0,full-time,2,1
+Aditya Patel,content writing,1,full-time,2,3
+Ananya Verma,content writing,0,freelance,2,3
+Aarav Sharma,content writing,0,full-time,2,3
+Meera Kapoor,content writing,1,freelance,2,3
+Rohan Gupta,content writing,1,full-time,2,3
+Priya Das,content writing,0,full-time,2,3
+Ananya Verma,content writing,0,part-time,2,3
+Meera Kapoor,content writing,0,freelance,2,1
+Priya Das,content writing,0,full-time,2,3
+Rohan Gupta,content writing,0,freelance,2,3
+Ishita Singh,content writing,1,full-time,2,3
+Ishita Singh,content writing,0,part-time,2,3
+Aarav Sharma,content writing,0,full-time,2,1
+Sneha Nair,content writing,0,freelance,2,1
+Rohan Gupta,content writing,0,full-time,2,3
+Aarav Sharma,content writing,0,part-time,2,3
+Kabir Mehta,content writing,0,freelance,2,1
+Aarav Sharma,content writing,0,part-time,2,1
+Aditya Patel,content writing,1,freelance,2,3
+Ananya Verma,content writing,1,freelance,2,3
+Rohan Gupta,content writing,0,full-time,2,3
+Aditya Patel,content writing,1,full-time,2,3
+Sneha Nair,content writing,1,full-time,2,1
+Ishita Singh,content writing,1,part-time,2,1
+Aarav Sharma,content writing,1,full-time,2,1
+Kunal Joshi,content writing,1,full-time,2,3
+Aditya Patel,content writing,0,full-time,2,3

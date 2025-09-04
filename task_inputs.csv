@@ -1,0 +1,31 @@
+Task Name,Description,Required Skills,Urgency,Team Size,Solo OK
+build login system,research based work,"docker, aws, nodejs, react",medium,4,yes
+design landing page,security related task,"css, seo",high,1,no
+setup database schema,deploy infra,"aws, docker, react",high,5,no
+write api docs,task related to backend,"sql, css, aws",medium,1,yes
+test payment gateway,deploy infra,"python, aws, seo",high,1,yes
+optimize query performance,improve system performance,"data analysis, docker, aws, javascript",low,2,yes
+create marketing campaign,security related task,"nodejs, figma, testing",low,4,yes
+set up ci/cd pipeline,customer interaction task,"python, ml, seo, docker",low,1,yes
+design logo,customer interaction task,"html, css, nodejs, sql",medium,1,no
+develop chatbot,front end improvements,"testing, react, data analysis, marketing",high,1,yes
+conduct user survey,data science pipeline,"aws, figma, ml, sql",low,1,yes
+implement search feature,security related task,"aws, figma",high,4,yes
+fix bug in auth,data science pipeline,"figma, marketing, javascript, sql",medium,4,no
+data cleaning,customer interaction task,"javascript, sql, testing",low,2,no
+build recommendation system,security related task,"data analysis, html",high,2,yes
+analyze customer churn,customer interaction task,"react, testing",high,1,yes
+write unit tests,testing requirement,"html, aws, marketing, seo",medium,1,yes
+ui prototyping,prepare technical document,"javascript, docker",high,1,no
+refactor legacy code,prepare technical document,"html, javascript, css, figma",medium,3,no
+social media outreach,security related task,"data analysis, testing",low,4,yes
+deploy to aws,deploy infra,"html, data analysis, nodejs, sql",medium,5,yes
+data visualization dashboard,customer interaction task,"marketing, html, ml",medium,5,yes
+keyword research,deploy infra,"aws, ml, data analysis",low,2,yes
+set up crm tool,data science pipeline,"docker, data analysis, marketing",medium,3,yes
+improve seo ranking,testing requirement,"marketing, aws, ml",medium,1,yes
+mobile app testing,security related task,"seo, ml",high,3,no
+integrate third party api,security related task,"html, testing, marketing, react",low,5,no
+train ml model,research based work,"sql, html",high,1,no
+security audit,improve system performance,"sql, data analysis",high,4,no
+content writing,security related task,"testing, css, sql, data analysis",low,2,yes
