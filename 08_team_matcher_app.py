@@ -15,7 +15,7 @@ def load_data():
 
 df_profiles, df_tasks, df_traits, df_skills, df_synergy, df_teams, df_solo = load_data()
 
-# 🔧 Synergy lookup
+# Synergy lookup
 def synergy_score(emp1, emp2):
     match = df_synergy[
         ((df_synergy["Employee 1"] == emp1) & (df_synergy["Employee 2"] == emp2)) |
@@ -104,6 +104,7 @@ else:
 # Footer
 st.markdown("---")
 st.caption("Streamlit App · File 08 · Modular, Interactive, and Built for Real HR Impact")
+
 
 
 
